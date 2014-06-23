@@ -49,3 +49,7 @@ forecast = [
     }
   }
 ]
+
+forecast.each do |x|
+  puts x
+end
