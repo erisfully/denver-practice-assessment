@@ -51,5 +51,5 @@ forecast = [
 ]
 
 forecast.each do |x|
-  puts x
+  puts x["day"]
 end
