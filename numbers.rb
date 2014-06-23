@@ -10,3 +10,5 @@ numbers.each do |x|
 end
 
 puts sum
+
+puts numbers.max
