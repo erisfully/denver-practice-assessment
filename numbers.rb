@@ -5,7 +5,7 @@ puts numbers.length
 sum = 0
 
 numbers.each do |x|
-  sum =+ x
+  sum += x
 
 end
 
